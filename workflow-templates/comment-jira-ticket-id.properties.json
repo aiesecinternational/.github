@@ -1,0 +1,4 @@
+{
+  "name": "Link JIRA ticket",
+  "description": "Creates a comment on the PR to link to the JIRA ticket"
+}
