@@ -1,8 +1,5 @@
 <!-- See https://www.pullrequest.com/blog/writing-a-great-pull-request-description/ for more info -->
 <!-- Remove any sections that are not needed before submitting the PR -->
-## JIRA Ticket
-<!-- Replace the ticket number and url here -->
-[AIES-1234](url)
 
 ## What?
 <!-- Explain the changes you’ve made. It doesn’t need to be fancy
